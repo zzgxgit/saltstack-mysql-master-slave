@@ -1,0 +1,1 @@
+# saltstack-mysql-master-slave
